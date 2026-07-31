@@ -53,6 +53,11 @@ July 2026 averaged roughly **40 new lawsuits per day**. Each Schedule A case typ
 
 Chrysler (101 cases) · UGG (72) · Universal Pictures / Despicable Me franchise (73) · NARUTO rights holders (68) · DreamWorks / Shrek (66) · ROTITA (63) · General Motors (62)
 
+
+## Brand TRO Risk Database (free lookup)
+
+Check any brand's TRO / Schedule A lawsuit history before listing — case count, filing law firm (GBC, Keith, HSP), venue, IP type and risk level: **[safesellai.com/en/tro-database](https://safesellai.com/en/tro-database)** (free, no registration).
+
 ## Data files
 
 - [`data/monthly-filings-2026.csv`](data/monthly-filings-2026.csv) — monthly new-case counts
